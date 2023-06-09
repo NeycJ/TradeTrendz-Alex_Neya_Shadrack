@@ -38,10 +38,5 @@ The stock selector is designed to evaluate a list of ticker symbols and provide 
 5. Run the code to execute the stock selector.
 6. The stock selector will analyze the historical data for each ticker symbol and provide a list of recommended stocks based on the win ratio.
 
-## Contributing
 
-Contributions to this project are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
-## License
-
-This project is licensed under the MIT License.
