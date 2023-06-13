@@ -1,3 +1,7 @@
+
+![image](https://github.com/NeycJ/TradeTrendz-Alex_Neya_Shadrack/assets/119983738/73cf0d61-2962-4165-a1e3-957356c7cd77)
+
+
 # TradeTrendz-Alex_Neya_Shadrack
 TradeTrendz Final Project - Technical Analysis
 
